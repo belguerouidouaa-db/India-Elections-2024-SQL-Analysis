@@ -139,14 +139,14 @@ GROUP BY cr.Constituency_Name
 ORDER BY cr.Constituency_Name;
 ```
 <p align="center">
-  <img src="assets/sql-analysis-preview.png" width="900">
+  <img src="assets/query_result_image" width="900">
 </p>
 
 This ranking makes it possible to identify the **winner and runner-up of each constituency** from candidate-level voting data.
 
 ---
 
-## Key Findings
+## Key Findingshttps://github.com/belguerouidouaa-db/India-Elections-2024-SQL-Analysis/blob/main/README.md
 
 - The election dataset covers **543 parliamentary seats** across India.
 
