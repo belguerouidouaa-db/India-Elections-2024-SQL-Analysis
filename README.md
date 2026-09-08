@@ -138,6 +138,9 @@ JOIN constituencywise_results cr
 GROUP BY cr.Constituency_Name
 ORDER BY cr.Constituency_Name;
 ```
+<p align="center">
+  <img src="assets/sql-analysis-preview.png" width="900">
+</p>
 
 This ranking makes it possible to identify the **winner and runner-up of each constituency** from candidate-level voting data.
 
