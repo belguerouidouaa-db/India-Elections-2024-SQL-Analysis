@@ -139,7 +139,7 @@ GROUP BY cr.Constituency_Name
 ORDER BY cr.Constituency_Name;
 ```
 <p align="center">
-  <img src="query_result_image.png" width="900">
+  <img src="assets/sql_query_result.png" width="900">
 </p>
 
 This ranking makes it possible to identify the **winner and runner-up of each constituency** from candidate-level voting data.
