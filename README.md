@@ -146,7 +146,7 @@ This ranking makes it possible to identify the **winner and runner-up of each co
 
 ---
 
-## Key Findingshttps://github.com/belguerouidouaa-db/India-Elections-2024-SQL-Analysis/blob/main/README.md
+## Key Findings
 
 - The election dataset covers **543 parliamentary seats** across India.
 
